@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Nutrica</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">نام کاربری</string>
+    <string name="prompt_password">رمزعبور</string>
+    <string name="prompt_phonenumber">Phone Number</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="order_food">Order Food</string>
+    <string name="new_game">New Game</string>
+    <string name="game_list">Game List</string>
+    <string name="sign_up_user">Sign up User</string>
+    <string name="sign_up_to_game">Sign up To Game</string>
+    <string name="exit">Exit</string>
+
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="card_id">Card ID</string>
+    <string name="table_number">Table Number</string>
+    <string name="signup_date">Signup Date</string>
+    <string name="start_date">Start Date</string>
+    <string name="send">Send</string>
+    <string name="title_activity_signup">Sign up</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="title_activity_maint_tabbed">MaintTabbedActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main3">Main3Activity</string>
+
+    <string name="nickname">Nickname</string>
+
+    <string name="player_signup">Player Signup</string>
+
+
+    <!-- signup player -->
+
+    <string name="name">Name</string>
+    <string name="phonenumber">شماره تلفن</string>
+    <string name="state">Name</string>
+    <string name="email">ایمیل</string>
+    <string name="avatar">Avatar</string>
+    <string name="credit_card_number">شماره کارت</string>
+
+    <string name="enter_admins_of_gamenet">ورود مدیران باشگاه</string>
+    <string name="enter_users">ورود بازیکن ها</string>
+    <string name="enter">ورود</string>
+    <string name="forgot_password"><u>کلمه عبور خود را فراموش کرده ام!</u></string>
+    <string name="sign_up">عضویت</string>
+    <string name="firstname_and_lastname">نام و نام خانوادگی</string>
+    <string name="signup_now">همین الان ثبت نام کن!</string>
+    <string name="this_password_is_too_short">رمز عبور کوتاه است!</string>
+    <string name="this_field_is_required">این فیلد نیاز است!</string>
+    <string name="accept">تأیید</string>
+    <string name="later">بعداً</string>
+    <string name="province">استان</string>
+    <string name="city">شهر</string>
+    <string name="favorite_game">بازی مورد علاقه</string>
+
+    <!-- tabs : user -->
+    <string name="main_page">صفحه اصلی</string>
+    <string name="tournaments">تورنومنت ها</string>
+    <string name="ranking">رده بندی</string>
+    <string name="gamenets">باشگاه ها</string>
+
+    <string name="next_game">بازی بعدی</string>
+    <string name="upcoming">در ادامه</string>
+    <string name="title_activity_login_activityasdfasdfdafsdfasdfsdf">Sign in</string>
+
+    <string name="game">بازی</string>
+    <string name="competition_type">نوع مسابقه</string>
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nutrica.client.nutrica">
+
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.nutrica.client.G"
+        android:allowBackup="true"
+        android:icon="@drawable/nutrica_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.nutrica.client.Activities.LoginSelectTypeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.nutrica.client.Activities.MainActivity" />
+        <activity android:name="com.nutrica.client.Activities.LoginActivityAdmin" />
+        <activity android:name="com.nutrica.client.Activities.LoginActivityUser" />
+        <activity android:name="com.nutrica.client.Activities.SignupPlayer" />
+        <activity android:name="com.nutrica.client.Activities.SignupPlayer2" />
+        <activity android:name="com.nutrica.client.Activities.ImageSelector" />
+    </application>
+</manifest>
